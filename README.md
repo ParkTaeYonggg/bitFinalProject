@@ -3,6 +3,9 @@
 
 조원과 화목한 분위기에서 만들어낸 moremore 펀딩 홈페이지 입니다.
 
+#프로젝트 소개
+
+
 #소스코드
 * [Back](/java/com/spring/more)
 * [Front](/webapp)
