@@ -13,6 +13,8 @@
  
 
 # ERD구성
+<img width="500px" height="300px" alt="스크린샷 2021-11-30 오후 11 10 50" src="https://user-images.githubusercontent.com/86910922/144062755-3308ccd0-bd64-4033-acf6-90cf5cd95cee.png">
+
 
 # 개발환경
 <img width="500px" height="300px" alt="스크린샷 2021-11-30 오후 11 09 07" src="https://user-images.githubusercontent.com/86910922/144062443-407d25b1-c028-4422-9a10-e0bb77d4b622.png">
